@@ -34,6 +34,7 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
+![Kapture 2025-09-26 at 19 57 10](https://github.com/user-attachments/assets/9081550f-6942-419c-9ac2-956370b8f7a1)
 
 ![Kapture 2025-09-26 at 19.57.10.gif](../../../../private/var/folders/9z/fmfxrqb52wd_dgdbd_bqj2880000gn/T/43912492afe523c2e5c4c4289d44a50f/Kapture%202025-09-26%20at%2019.57.10.gif)
 
