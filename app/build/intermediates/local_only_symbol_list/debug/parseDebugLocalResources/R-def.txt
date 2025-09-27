@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+array tipPercents
+color black
+color white
+id btnClear
+id etBill
+id etPeople
+id rbNoRound
+id rbRoundTip
+id rbRoundTotal
+id rgRound
+id spTip
+id tvPerPerson
+id tvTip
+id tvTotal
+layout activity_main
+string app_name
+style Theme.CodeMath
